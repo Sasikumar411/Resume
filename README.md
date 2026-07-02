@@ -1,2 +1,27 @@
-# Resume
-QA Automation Engineer with 5 years of experience in UI and API automation using Selenium WebDriver, Java, TestNG, Cucumber, and REST Assured.
+# Sasi Kumar – QA Automation Engineer
+
+This repository contains my latest resume.
+
+## Skills
+
+- Selenium WebDriver
+- Selenium Grid
+- Java
+- TypeScript
+- TestNG
+- Cucumber
+- Postman
+- REST Assured
+- Jenkins
+- Git
+- API Automation
+- Apache POI
+- JIRA
+- Docker
+- JUnit
+- Maven
+- SelectorsHub
+
+## Resume
+
+Download the latest PDF from this repository. ⬇︎
